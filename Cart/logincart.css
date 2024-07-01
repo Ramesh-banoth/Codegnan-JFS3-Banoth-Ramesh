@@ -1,0 +1,187 @@
+body{
+	background-image:url("https://www.shutterstock.com/image-photo/hands-holding-shoping-bags-260nw-517388650.jpg");
+	background-size: cover;
+    background-attachment: fixed;
+
+}
+.a{
+	display: grid;
+	column-gap: 20px;
+	grid-template-columns: 500px 300px auto;
+	background-color: lightblue;
+	padding : 8px;
+	border: solid;
+	border-radius: 30px;
+	text-align: center;
+}
+
+.btn1{
+	width : 100%;
+	border-radius: 30px;
+}
+.btn1:hover{
+	background-color: lightgrey;
+}
+button{
+	padding : 10px;
+}
+.aa{
+	position: relative;
+	left : 10px;
+	text-align: center;
+background-color: aliceblue;
+border-radius: 30px;
+}
+.b div{
+	box-shadow: 1px 1px 10px rgb(218, 144, 193);
+}
+.aba{
+	position : relative;
+	top : 20px;
+	left : 3px;
+	background-color: pink;
+	border: none;
+	border-radius: 50px;
+}
+
+.b>div{
+	padding : 10px;
+	display: inline-grid;
+	margin : 40px;
+	height : 430px;
+	width : 200px;
+}
+.ba{
+	position: relative;
+	top : 2px;
+	border-radius: 0px;
+	background-color:aqua;
+	height: 100%;
+	width : 100%;
+}
+.bb{
+	 padding: 5px;
+	position: relative;
+	top : 3px;
+	border-radius: 0px;
+	height: 140px;
+	width : 95%;
+}
+img{
+	border-radius: 0px;
+	height : 100%;
+	width : 100%;
+}
+.btn2{
+	border-radius: 10px;
+	font-weight: bold;
+	font-size : 20px;
+}
+.bb h5{
+	color: red;
+	background-color: beige;
+	padding: 2px;
+	text-align: center;
+}
+
+.z{
+	margin : 10px;
+	display: grid;
+	column-gap: 10px;
+  grid-template-columns: auto; 
+	background-color: rgb(34, 124, 123);
+	padding : 8px;
+	border: solid;
+	border-radius: 30px;
+}
+.za{
+	position: relative;
+	text-align: center;
+	left : 10px;
+}
+button{
+	padding : 10px;
+}
+.zba{
+	position : relative;
+	top : 20px;
+	left : 3px;
+	background-color: pink;
+	border: none;
+	border-radius: 50px;
+}
+
+.y div{
+	margin : 10px;
+	border-radius: 20px;
+	text-align: center;
+	border: solid;
+	height : 50px;
+	width: 200px;
+	align-content: center;
+	font-weight: bold;
+}
+.y{
+	display: none;
+	padding : 40px;
+	grid-template-columns: 250px auto ;
+	justify-content: center;
+	justify-items: center;
+	margin : 10px;
+	border: solid;
+	border-radius: 30px;
+	background-color:lightpink;
+}
+.btn2{
+	border : solid;
+	margin : 20px;
+	width : 70%;
+	border-radius: 30px;
+}
+.zbcd{
+	font-family: courier;
+	width : 350px;
+}
+.y div:nth-child(1) {
+	border-color: red;
+	color : blue;
+	font-weight : bold;
+	font-size: 30px;
+	align-content: center;
+	font-family: courier;
+}
+.y div:nth-child(2) {
+	border-color: red;
+	font-weight: bold;
+	color : blue;
+	font-size : 30px;
+	align-content: center;
+	font-family: courier;
+}
+.y div:hover{
+	border-color: red;
+	font-weight: bold;
+	font-size: 30px;
+	color : red;
+	align-content: center;
+	font-family: courier;
+	padding : 10px;	
+}
+#p{
+	color: blue;
+	background-color: chartreuse;
+	padding: 2px;
+}
+#w{
+	color:black;
+	background-color:blueviolet;
+	padding: 3px;
+	text-align: center;
+	
+}
+h3{
+	background-color:darkcyan;
+	padding: 10px;
+	padding-right: 30px;
+	text-align: center;
+}
